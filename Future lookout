@@ -126,3 +126,9 @@ st.success(
     f"📢 Best move right now: **{best['coin']}** at ${best['price']:,.2f} "
     f"(Sharpe Ratio: {best['sharpe']:.2f})"
 )
+streamlit
+requests
+pandas
+matplotlib
+textblob
+numpy
